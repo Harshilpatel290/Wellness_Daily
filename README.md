@@ -11,6 +11,7 @@ A holistic web app that empowers users to track and improve their daily habits a
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
+- [screenshots](#screenshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -66,6 +67,23 @@ npm start
 4. Open http://localhost:3000.
 
 ---
+
+## Screenshots
+
+### Dashboard View
+
+
+The Dashboard provides a comprehensive overview of your daily activity, health insights, and vital signs, helping you stay on top of your wellness goals.
+
+### Breathing Exercises
+
+
+The Breathing Exercises module guides you through customizable breathing routines to help you relax and reduce stress.
+
+### Journal
+
+
+The Journal allows you to log your thoughts and feelings, track your mood, and analyze patterns for better mental well-being.
 
 ## Usage
 

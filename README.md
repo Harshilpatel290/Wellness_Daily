@@ -52,7 +52,7 @@ To run this project locally:
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Harshilpatel290/Wellness_Daily.git
 cd Wellness_Daily
 
 2. **Install dependencies:**

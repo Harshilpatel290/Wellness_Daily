@@ -81,7 +81,7 @@ The Dashboard provides a comprehensive overview of your daily activity, health i
 The Breathing Exercises module guides you through customizable breathing routines to help you relax and reduce stress.
 
 ### Journal
-![Mental health journal with mood entry and mood analysis](sreenshots/journal.png)
+![Mental health journal with mood entry and mood analysis](sreenshots/jounral.png)
 
 The Journal allows you to log your thoughts and feelings, track your mood, and analyze patterns for better mental well-being.
 

@@ -71,17 +71,17 @@ npm start
 ## Screenshots
 
 ### Dashboard View
-
+screenshots/dashboard.png
 
 The Dashboard provides a comprehensive overview of your daily activity, health insights, and vital signs, helping you stay on top of your wellness goals.
 
 ### Breathing Exercises
-
+screenshots/breathing.png
 
 The Breathing Exercises module guides you through customizable breathing routines to help you relax and reduce stress.
 
 ### Journal
-
+sreenshots/journal.png
 
 The Journal allows you to log your thoughts and feelings, track your mood, and analyze patterns for better mental well-being.
 
